@@ -160,6 +160,7 @@ public class SearchLE extends JPanel implements ActionListener {
 				}
 
 				
+				
 			} catch (SQLException exp) {
 				// TODO Auto-generated catch block
 				exp.printStackTrace();
