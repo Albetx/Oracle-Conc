@@ -9,7 +9,7 @@ The program receives .txt files contains poems and processes the data to the db.
   <li>Manage words groups </li>
   <li>Search linguistic expressions </li>
   <li>Show stats </li>
-  <li>Export to .xml file </li>
+  <li>Export to XML </li>
   </ul>
 <br> <br> 
 
