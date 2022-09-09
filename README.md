@@ -4,7 +4,7 @@ The program receives .txt files contains poems and processes the data to the db.
 <b>Functions: </b> <br>
 <ul>
   <li>Search by word and find its context</li>
-  <li>Seartch by poems info </li>
+  <li>Search by poems info </li>
   <li>Search words indexes in poems </li>
   <li>Manage words groups </li>
   <li>Search linguistic expressions </li>
